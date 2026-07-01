@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6d0184/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 法智遺編觀心二百問
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T46/T46n1935.xml
+    old_id: T46n1935
+hash: sha256:edfb27f3f4b1593d4b8255eab0008be1b2d2ef93fff01fd4ddbca34333350723

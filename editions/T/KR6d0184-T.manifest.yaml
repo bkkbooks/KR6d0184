@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6d0184/T/v1
+canonical_location: https://kanripo.org/bkk/KR6d0184/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 法智遺編觀心二百問
+  identifiers:
+    krp: KR6d0184
+    cbeta: T46n1935
+    cbeta_old_id: T46n1935
+    authorityid: CA0000956
+    json_key: T1935
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T46/T46n1935.xml
+    old_id: T46n1935
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0184_000-T.yaml, hash: 'sha256:edfb27f3f4b1593d4b8255eab0008be1b2d2ef93fff01fd4ddbca34333350723'}
+  - {seq: 1, filename: KR6d0184_001-T.yaml, hash: 'sha256:4628b27c2bd1c5fc249df6c82de8ce4cb3602ee6fb6960eacd986dda6dcd397f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0184_000-T.markers.yaml, hash: 'sha256:5c4a01820c2abeed29d957f53548622e1aeac61c8414ab73bf317233ee60854c'}
+  - {seq: 1, role: markers, filename: assets/KR6d0184_001-T.markers.yaml, hash: 'sha256:028465dd19fe0dc3968867deb90d68413b60a72df7ec712ae18092cbf08e472f'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6d0184_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 8720
+  label: 法智遺編觀心二百問
+  type: juan
+  level: 1
+hash: sha256:def825ab24cee8ac48ce84528f19b23ca3d92157bdb5b874e1e8a6f001e8c136
