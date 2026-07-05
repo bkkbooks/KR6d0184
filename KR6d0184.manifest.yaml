@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6d0184_000.yaml, hash: 'sha256:edfb27f3f4b1593d4b8255eab0008be1b2d2ef93fff01fd4ddbca34333350723'}
-  - {seq: 1, filename: KR6d0184_001.yaml, hash: 'sha256:4aaa056bc7f9932a99644083340533abccde4ff9c051d462591a3b8a7fac1eaf'}
+  - {seq: 1, filename: KR6d0184_001.yaml, hash: 'sha256:4628b27c2bd1c5fc249df6c82de8ce4cb3602ee6fb6960eacd986dda6dcd397f'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6d0184_001.markers.yaml, hash: 'sha256:6ab1b82074e7b67ecaec4fee389339f38bb4b24a7f6c91b79076e9b35e52b360'}
+  - {seq: 0, role: markers, filename: assets/KR6d0184_000.markers.yaml, hash: 'sha256:3931d14cf6432379599a962eeed73514d7a4a6d2af3c8c7ddd35f13f1ecdea8e'}
+  - {seq: 1, role: markers, filename: assets/KR6d0184_001.markers.yaml, hash: 'sha256:52ce4c77192634a8d4af650406962769abd6bb800005d40fb2da7fd2a3e7c33c'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 法智遺編觀心二百問
   type: juan
   level: 1
-hash: sha256:fd709f32711d32b4d67ea51f13c4f2e0a285dea0435debf3336704ad0d12a834
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:aa981742945198bb4198063f9c2eb59d44454589af49e29204fbd1a3c3c9055b
