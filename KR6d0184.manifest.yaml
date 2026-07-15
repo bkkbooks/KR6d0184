@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6d0184/v1
 canonical_location: https://kanripo.org/bkk/KR6d0184/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 法智遺編觀心二百問
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6d0184_000.yaml, hash: 'sha256:edfb27f3f4b1593d4b8255eab0008be1b2d2ef93fff01fd4ddbca34333350723'}
-  - {seq: 1, filename: KR6d0184_001.yaml, hash: 'sha256:4628b27c2bd1c5fc249df6c82de8ce4cb3602ee6fb6960eacd986dda6dcd397f'}
+  - {seq: 1, filename: KR6d0184_001.yaml, hash: 'sha256:da134c863d8b60b78301ff95e7579f070faefbd005ae4f0d375849764e9aaa4d'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6d0184_000.markers.yaml, hash: 'sha256:3931d14cf6432379599a962eeed73514d7a4a6d2af3c8c7ddd35f13f1ecdea8e'}
-  - {seq: 1, role: markers, filename: assets/KR6d0184_001.markers.yaml, hash: 'sha256:52ce4c77192634a8d4af650406962769abd6bb800005d40fb2da7fd2a3e7c33c'}
+  - {seq: 1, role: markers, filename: assets/KR6d0184_001.markers.yaml, hash: 'sha256:29a799ccf9b1b1232a890f967016d3af527a3119b9ec5cb8cd654d986e58cc46'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 法智遺編觀心二百問
   type: juan
   level: 1
-hash: sha256:aa981742945198bb4198063f9c2eb59d44454589af49e29204fbd1a3c3c9055b
+hash: sha256:ec47386b2a598175803333dcf39c4ed079ee9c3ce71d9ffb1d1d2293b2684e33
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
